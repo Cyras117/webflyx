@@ -15,4 +15,3 @@ This is a simple project designed to help you learn and practice essential **Git
 - A text/code editor (e.g., Visual Studio Code)
 - (Optional) GitHub account for remote practice
 
-## 🗂 Folder Structure
